@@ -16,3 +16,7 @@ GIT & GITHUB
 6. GITHUB https://github.com/
 
 
+TAREAS _______
+1. Descargar todo el software mencionado
+2. Crear cuenta en GitHub
+
