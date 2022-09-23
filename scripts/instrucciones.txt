@@ -1,0 +1,18 @@
+SOFTWARE PARA DESCARGAR
+
+1. Python https://www.python.org/downloads/
+
+	IDE
+2. Jupyter Notebook https://jupyter.org/install
+3. Visual Studio Code https://code.visualstudio.com/download
+
+	Opción gente pudiente
+4. Anaconda https://www.anaconda.com/products/distribution
+
+
+GIT & GITHUB
+
+5. GIT https://git-scm.com/downloads
+6. GITHUB https://github.com/
+
+
